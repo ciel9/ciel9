@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cindy from the 2018 Department of Informatics at Multimedia Nusantara University</h1>
-<p align="justify">Hello, my name is Cindy from the 2018 Department of Informatics at Multimedia Nusantara University. I am someone who loves technology and is always studying technology that always growing,a person who never gives up, always evaluates myself to be better and works hard. I'm looking forward to join a progressive tech company where I could fully harness my technical skills.</p>
+<p align="justify">I am someone who loves technology and is always studying technology that always growing,a person who never gives up, always evaluates myself to be better and works hard. I'm looking forward to join a progressive tech company where I could fully harness my technical skills.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciel9&label=Profile%20views&color=0e75b6&style=flat" alt="ciel9" /> </p>
 
