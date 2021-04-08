@@ -16,7 +16,8 @@
 
 <h1 align="left"> Ciel's Github Stats</h1><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciel9&show_icons=true&locale=en&layout=compact" alt="ciel9" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ciel9&show_icons=true&locale=en" alt="ciel9" /></p>
+<h1 align="left"> Ciel's </h1><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ciel9&show_icons=true&locale=en" alt="ciel9" /></p>
 
 <h1 align="left"> Total Contribution</h1><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ciel9&" alt="ciel9" /></p>
